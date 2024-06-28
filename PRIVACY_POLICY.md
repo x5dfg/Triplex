@@ -1,4 +1,4 @@
-# Privacy Policy ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://cdn.discordapp.com/avatars/1255982377386119251/e976568ab2da7e362b54f1d48ef168e4.png?size=100)
+# ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://cdn.discordapp.com/avatars/1255982377386119251/9feafd2b4ae2cdbd5976be3cf312f4ba.png?size=40) Privacy Policy
 
 ## Introduction
 Welcome to the Dev-Core Privacy Policy. This policy describes how we handle your information when you use our Discord bot and related services.
