@@ -34,7 +34,11 @@
 13. **/convert** - Convert your text into emojis.
 
 ### Profile Context Menus:
-
+1. **/aperture** - Random phrases from Glados in Portal.
+2. **/random_china** - Random pictures of China.
+3. **/random_cute_cat** - Random gifs of cats from Tenor.
+4. **/random_color** - Generate a random color in hex and rgb formats.
+  
 ### Message Context Menus:
 
 ### Specific:
