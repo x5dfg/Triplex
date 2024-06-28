@@ -31,7 +31,7 @@
 10. **/role_list** - View the server's roles.
 11. **/hyperlink8** - Create a hyperlink.
 12. **/stats** - Display all bot statistics.
-13. **/convert** - Convert your text into emojis, e.g., 🇦 🇧 🇨.
+13. **/convert** - Convert your text into emojis.
 
 ### Profile Context Menus:
 
