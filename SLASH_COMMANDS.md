@@ -40,5 +40,8 @@
 4. **/random_color** - Generate a random color in hex and rgb formats.
   
 ### Message Context Menus:
+1. **/display_avatar** - *(Nitro)* User avatar that can be downloaded.
+2. **/global_avatar** - User avatar that can be downloaded.
+3. **/guild_icon** - Server icon that can be downloaded.
 
 ### Specific:
