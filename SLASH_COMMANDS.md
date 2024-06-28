@@ -45,4 +45,4 @@
 3. **/guild_icon** - Server icon that can be downloaded.
 
 ### Specific:
-- **>shutdown** - Emergency shutdown command for the bot, accessible only to owners.
+1. **>shutdown** - Emergency shutdown command for the bot, accessible only to owners.
