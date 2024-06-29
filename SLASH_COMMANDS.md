@@ -16,18 +16,17 @@
 ### General:
 1. **/help** - Show a list of command categories and more.
 2. **/guild_info** - Display information about the current server/guild.
-3. **/template_rules** - Standard template rules for the server.
-4. **/embed8** - Create a custom embed message using a form.
-5. **/schedule_message** - Schedule your text to be sent on behalf of you.
-6. **/say** - Send your text as the bot/your name in the current channel.
-7. **/weather** - Weather information from OpenWeatherMap.
-8. **/idea8** - Add your idea for the bot to the idea list.
-9. **/profile_info** - Show information about the selected member on the server.
-10. **/role_list** - View the server's roles.
-11. **/hyperlink8** - Create a hyperlink.
-12. **/stats** - Display all bot statistics.
-13. **/convert** - Convert your text into emojis.
-14. **/nasa_mars** - Viewing photos taken on Mars by the Curiosity rover.
+3. **/embed8** - Create a custom embed message using a form.
+4. **/schedule_message** - Schedule your text to be sent on behalf of you.
+5. **/say** - Send your text as the bot/your name in the current channel.
+6. **/weather** - Weather information from OpenWeatherMap.
+7. **/idea8** - Add your idea for the bot to the idea list.
+8. **/profile_info** - Show information about the selected member on the server.
+9. **/role_list** - View the server's roles.
+10. **/hyperlink8** - Create a hyperlink.
+11. **/stats** - Display all bot statistics.
+12. **/convert** - Convert your text into emojis.
+13. **/nasa_mars** - Viewing photos taken on Mars by the Curiosity rover.
 
 ### Profile Context Menus:
 1. **/aperture** - Random phrases from Glados in Portal.
