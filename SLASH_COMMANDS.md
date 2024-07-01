@@ -29,15 +29,16 @@
 13. **/nasa_mars** - Viewing photos taken on Mars by the Curiosity rover.
 
 ### Profile Context Menus:
-1. **/aperture** - Random phrases from Glados in Portal.
-2. **/random_china** - Random pictures of China.
-3. **/random_cute_cat** - Random gifs of cats from Tenor.
-4. **/random_color** - Generate a random color in hex and rgb formats.
+1. **aperture** - Random phrases from Glados in Portal.
+2. **random china** - Random pictures of China.
+3. **random cute_cat** - Random gifs of cats from Tenor.
+4. **random color** - Generate a random color in hex and rgb formats.
   
 ### Message Context Menus:
-1. **/display_avatar** - *(Nitro)* User avatar that can be downloaded.
-2. **/global_avatar** - User avatar that can be downloaded.
-3. **/guild_icon** - Server icon that can be downloaded.
+1. **display avatar** - *(Nitro)* User avatar that can be downloaded.
+2. **global avatar** - User avatar that can be downloaded.
+3. **guild icon** - Server icon that can be downloaded.
+4. **voting reactions** - Sets voting reactions on the target message.
 
 ### Specific:
 Soon
