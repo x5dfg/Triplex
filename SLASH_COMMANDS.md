@@ -26,7 +26,6 @@
 10. **/hyperlink8** - Create a hyperlink.
 11. **/stats** - Display all bot statistics.
 12. **/convert** - Convert your text into emojis.
-13. **/nasa_mars** - Viewing photos taken on Mars by the Curiosity rover.
 
 ### Profile Context Menus:
 1. **aperture** - Random phrases from Glados in Portal.
